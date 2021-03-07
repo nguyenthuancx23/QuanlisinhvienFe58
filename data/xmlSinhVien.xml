@@ -1,0 +1,12 @@
+<DanhSachSinhVien>
+    <SinhVien maSV = "1" tenSV = 'Nguyen van a'>
+        Nguyễn Văn A
+    </SinhVien>
+
+    <SinhVien maSV = "2" tenSV = 'Nguyen van b'>
+        Nguyễn Văn B
+    </SinhVien>
+
+
+
+</DanhSachSinhVien>
